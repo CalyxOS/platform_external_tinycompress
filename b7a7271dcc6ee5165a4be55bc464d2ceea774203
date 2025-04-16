@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10a7837b_9e25c4a4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2025-04-16T17:27:33Z",
+      "side": 1,
+      "message": "Counterpart: https://review.calyxos.org/c/CalyxOS/vendor_calyx/+/38414",
+      "revId": "b7a7271dcc6ee5165a4be55bc464d2ceea774203",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
